@@ -4,7 +4,7 @@
 ---
 
 ## 📘 Overview
-This repository contains a **primitive implementation** of the paper *“Machine learning based homogeneity–heterogeneity coupled complex network dynamics discovery”*.  
+This repository contains a **prototype implementation** of the paper *“Machine learning based homogeneity–heterogeneity coupled complex network dynamics discovery”*.  
 We propose the **Heterogeneity-Homogeneity Discovery Network (H²DN)** — a two-stage framework for discovering the **governing equations of complex networks** directly from observational data.
 
 H²DN simultaneously captures:
